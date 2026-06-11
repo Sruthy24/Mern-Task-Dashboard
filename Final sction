@@ -1,0 +1,38 @@
+Phase 13: Responsive Design
+
+Make dashboard work on:
+
+Mobile
+Tablet
+Desktop
+
+Commit:
+git commit -m "Implement responsive UI design"
+
+Phase 14: Deploy Project
+
+Backend
+
+Deploy on:
+Render
+
+Frontend
+
+Deploy on:
+Vercel
+
+Database
+
+Use:
+MongoDB Atlas
+
+Final Features:
+
+- Create Task
+- Read Task
+- Update Task
+- Delete Task
+- Dashboard Statistics
+- Responsive Design
+
+Project Completed

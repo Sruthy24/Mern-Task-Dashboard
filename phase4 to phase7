@@ -1,0 +1,29 @@
+Phase 4: Create Dashboard UI
+
+Create:
+- Navbar
+- Dashboard Cards
+- Task List
+
+Phase 5: Add Tasks
+
+Features:
+- Add Task
+- Edit Task
+- Delete Task
+
+Phase 6: Connect API
+
+Axios Integration
+
+Display tasks from database
+
+Phase 7: Dashboard Statistics
+
+Show:
+- Total Tasks
+- Pending Tasks
+- Completed Tasks
+
+Commit:
+git commit -m "Dashboard features completed"

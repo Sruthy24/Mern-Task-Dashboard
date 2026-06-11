@@ -1,0 +1,21 @@
+Backend Setup
+
+Install packages:
+
+npm init -y
+
+npm install express mongoose cors dotenv
+
+Create:
+
+server.js
+
+models/
+routes/
+
+Connect MongoDB Atlas
+
+Test API using Postman
+
+Commit:
+git commit -m "Backend setup complete"

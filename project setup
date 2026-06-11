@@ -1,0 +1,21 @@
+Phase 1: Project Setup
+
+Create MERN project structure
+
+Frontend:
+- React
+- Bootstrap
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB Atlas
+
+Initialize Git repository
+
+Create GitHub repository
+
+Commit:
+git commit -m "Initial project setup"
